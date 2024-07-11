@@ -1,0 +1,59 @@
+[
+    {
+      "PostId": 1,
+      "UserId": 2,
+      "Content": "Great article! Very informative.",
+      "Status": "Approved",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 2,
+      "UserId": 1,
+      "Content": "Thanks for the tips!",
+      "Status": "Pending",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 3,
+      "UserId": 3,
+      "Content": "Very helpful, thank you!",
+      "Status": "Approved",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 4,
+      "UserId": 4,
+      "Content": "Can't wait to visit these places!",
+      "Status": "Pending",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 5,
+      "UserId": 5,
+      "Content": "Delicious recipes! I'm trying one tonight.",
+      "Status": "Approved",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 6,
+      "UserId": 6,
+      "Content": "These tips are so useful!",
+      "Status": "Approved",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 7,
+      "UserId": 7,
+      "Content": "Great resources, thanks for sharing!",
+      "Status": "Approved",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+  

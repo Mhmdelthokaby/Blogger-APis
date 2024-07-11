@@ -1,0 +1,15 @@
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\bin\Debug\net8.0\Bloger.Repository.deps.json
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\bin\Debug\net8.0\Bloger.Repository.dll
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\bin\Debug\net8.0\Bloger.Repository.pdb
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\bin\Debug\net8.0\Bloger.Core.dll
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\bin\Debug\net8.0\Bloger.Core.pdb
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.Repository.csproj.AssemblyReference.cache
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.Repository.AssemblyInfoInputs.cache
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.Repository.AssemblyInfo.cs
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.R.7FAA508F.Up2Date
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.Repository.dll
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\refint\Bloger.Repository.dll
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\Bloger.Repository.pdb
+C:\Users\Mohamed Emad\source\repos\Bloger Solution\Bloger.Repository\obj\Debug\net8.0\ref\Bloger.Repository.dll

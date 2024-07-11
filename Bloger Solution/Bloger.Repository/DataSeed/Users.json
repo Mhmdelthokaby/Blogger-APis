@@ -1,0 +1,87 @@
+[
+    {
+      "Username": "john_doe",
+      "PasswordHash": "hashedpassword1",
+      "Email": "john.doe@example.com",
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Bio": "A software developer from NY.",
+      "ProfileImageUrl": "https://example.com/images/john.jpg",
+      "Role": "Admin",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Username": "jane_smith",
+      "PasswordHash": "hashedpassword2",
+      "Email": "jane.smith@example.com",
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Bio": "A passionate blogger.",
+      "ProfileImageUrl": "https://example.com/images/jane.jpg",
+      "Role": "User",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Username": "alice_johnson",
+      "PasswordHash": "hashedpassword3",
+      "Email": "alice.johnson@example.com",
+      "FirstName": "Alice",
+      "LastName": "Johnson",
+      "Bio": "A creative writer.",
+      "ProfileImageUrl": "https://example.com/images/alice.jpg",
+      "Role": "User",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Username": "bob_williams",
+      "PasswordHash": "hashedpassword4",
+      "Email": "bob.williams@example.com",
+      "FirstName": "Bob",
+      "LastName": "Williams",
+      "Bio": "A tech enthusiast.",
+      "ProfileImageUrl": "https://example.com/images/bob.jpg",
+      "Role": "User",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Username": "charlie_brown",
+      "PasswordHash": "hashedpassword5",
+      "Email": "charlie.brown@example.com",
+      "FirstName": "Charlie",
+      "LastName": "Brown",
+      "Bio": "A lifestyle blogger.",
+      "ProfileImageUrl": "https://example.com/images/charlie.jpg",
+      "Role": "User",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Username": "david_lee",
+      "PasswordHash": "hashedpassword6",
+      "Email": "david.lee@example.com",
+      "FirstName": "David",
+      "LastName": "Lee",
+      "Bio": "A food blogger.",
+      "ProfileImageUrl": "https://example.com/images/david.jpg",
+      "Role": "User",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Username": "eva_green",
+      "PasswordHash": "hashedpassword7",
+      "Email": "eva.green@example.com",
+      "FirstName": "Eva",
+      "LastName": "Green",
+      "Bio": "A travel blogger.",
+      "ProfileImageUrl": "https://example.com/images/eva.jpg",
+      "Role": "User",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+  

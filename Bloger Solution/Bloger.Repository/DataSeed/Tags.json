@@ -1,0 +1,38 @@
+[
+    {
+      "Name": "Programming",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Health",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Travel",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Food",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Finance",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Education",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Lifestyle",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+  

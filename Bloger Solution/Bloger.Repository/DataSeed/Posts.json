@@ -1,0 +1,87 @@
+[
+    {
+      "UserId": 1,
+      "CategoryId": 1,
+      "Title": "Top 10 Programming Languages in 2024",
+      "Slug": "top-10-programming-languages-2024",
+      "Content": "Here are the top programming languages to learn in 2024...",
+      "FeaturedImageUrl": "https://example.com/images/programming.jpg",
+      "Status": "Published",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z",
+      "PublishedAt": "2024-01-02T00:00:00Z"
+    },
+    {
+      "UserId": 2,
+      "CategoryId": 2,
+      "Title": "5 Tips for a Healthier Lifestyle",
+      "Slug": "5-tips-healthier-lifestyle",
+      "Content": "Follow these simple steps to improve your health...",
+      "FeaturedImageUrl": "https://example.com/images/health.jpg",
+      "Status": "Draft",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z",
+      "PublishedAt": null
+    },
+    {
+      "UserId": 3,
+      "CategoryId": 3,
+      "Title": "The Importance of Mental Health",
+      "Slug": "importance-of-mental-health",
+      "Content": "Mental health is just as important as physical health...",
+      "FeaturedImageUrl": "https://example.com/images/mental_health.jpg",
+      "Status": "Published",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z",
+      "PublishedAt": "2024-01-02T00:00:00Z"
+    },
+    {
+      "UserId": 4,
+      "CategoryId": 4,
+      "Title": "Top 10 Travel Destinations for 2024",
+      "Slug": "top-10-travel-destinations-2024",
+      "Content": "Here are the top travel destinations to visit in 2024...",
+      "FeaturedImageUrl": "https://example.com/images/travel.jpg",
+      "Status": "Published",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z",
+      "PublishedAt": "2024-01-02T00:00:00Z"
+    },
+    {
+      "UserId": 5,
+      "CategoryId": 5,
+      "Title": "10 Delicious Recipes for the Summer",
+      "Slug": "10-delicious-recipes-summer",
+      "Content": "Try these delicious recipes to spice up your summer...",
+      "FeaturedImageUrl": "https://example.com/images/food.jpg",
+      "Status": "Published",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z",
+      "PublishedAt": "2024-01-02T00:00:00Z"
+    },
+    {
+      "UserId": 6,
+      "CategoryId": 6,
+      "Title": "How to Save Money on Groceries",
+      "Slug": "save-money-on-groceries",
+      "Content": "Here are some tips to save money on groceries...",
+      "FeaturedImageUrl": "https://example.com/images/finance.jpg",
+      "Status": "Published",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z",
+      "PublishedAt": "2024-01-02T00:00:00Z"
+    },
+    {
+      "UserId": 7,
+      "CategoryId": 7,
+      "Title": "Best Online Learning Resources in 2024",
+      "Slug": "best-online-learning-resources-2024",
+      "Content": "Check out these online learning resources to boost your skills...",
+      "FeaturedImageUrl": "https://example.com/images/education.jpg",
+      "Status": "Published",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z",
+      "PublishedAt": "2024-01-02T00:00:00Z"
+    }
+  ]
+  

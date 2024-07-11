@@ -1,0 +1,46 @@
+[
+    {
+      "PostId": 1,
+      "UserId": 2,
+      "Reaction": "Like",
+      "CreatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 2,
+      "UserId": 1,
+      "Reaction": "Love",
+      "CreatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      
+      "PostId": 3,
+      "UserId": 3,
+      "Reaction": "Wow",
+      "CreatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 4,
+      "UserId": 4,
+      "Reaction": "Haha",
+      "CreatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 5,
+      "UserId": 5,
+      "Reaction": "Sad",
+      "CreatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 6,
+      "UserId": 6,
+      "Reaction": "Angry",
+      "CreatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "PostId": 7,
+      "UserId": 7,
+      "Reaction": "Like",
+      "CreatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+  

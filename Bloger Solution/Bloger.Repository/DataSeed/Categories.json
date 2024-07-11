@@ -1,0 +1,45 @@
+[
+    {
+      "Name": "Technology",
+      "Description": "All about the latest in tech.",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Lifestyle",
+      "Description": "Tips and tricks for a better life.",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Health",
+      "Description": "Health and wellness tips.",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Travel",
+      "Description": "Travel guides and tips.",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Food",
+      "Description": "Delicious recipes and food reviews.",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Finance",
+      "Description": "Financial advice and tips.",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Name": "Education",
+      "Description": "Learning and educational resources.",
+      "CreatedAt": "2024-01-01T00:00:00Z",
+      "UpdatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+  

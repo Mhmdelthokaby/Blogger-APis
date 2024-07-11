@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed Emad\\source\\repos\\Bloger Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3174B0C-65EA-4B78-B647-C880510C2FB0}|Bloger.Repository\\Bloger.Repository.csproj|c:\\users\\mohamed emad\\source\\repos\\bloger solution\\bloger.repository\\context\\blogdbcontextdataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3174B0C-65EA-4B78-B647-C880510C2FB0}|Bloger.Repository\\Bloger.Repository.csproj|solutionrelative:bloger.repository\\context\\blogdbcontextdataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965569D8-B9E0-40F7-A972-3992CB696ED7}|Bloger\\Bloger.csproj|c:\\users\\mohamed emad\\source\\repos\\bloger solution\\bloger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965569D8-B9E0-40F7-A972-3992CB696ED7}|Bloger\\Bloger.csproj|solutionrelative:bloger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogDbContextDataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\source\\repos\\Bloger Solution\\Bloger.Repository\\Context\\BlogDbContextDataSeed.cs",
+              "RelativeDocumentMoniker": "Bloger.Repository\\Context\\BlogDbContextDataSeed.cs",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\source\\repos\\Bloger Solution\\Bloger.Repository\\Context\\BlogDbContextDataSeed.cs",
+              "RelativeToolTip": "Bloger.Repository\\Context\\BlogDbContextDataSeed.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:59:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed Emad\\source\\repos\\Bloger Solution\\Bloger\\Program.cs",
+              "RelativeDocumentMoniker": "Bloger\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed Emad\\source\\repos\\Bloger Solution\\Bloger\\Program.cs",
+              "RelativeToolTip": "Bloger\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:11:37.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
