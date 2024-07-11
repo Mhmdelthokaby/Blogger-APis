@@ -1,4 +1,6 @@
 Blogger
+
+
 Overview
 Blogger is a .NET 8-based blogging platform API that provides comprehensive features for managing blog posts, categories, users, comments, post tags, and likes. This project utilizes several design patterns and architectural principles to ensure maintainability, scalability, and security.
 
